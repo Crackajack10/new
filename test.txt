@@ -1,3 +1,5 @@
 test
 
-this is the second one i'm trying to update. This was initiated by updating the code,saving, going to the folder, adding the file, git pull, git push 
+this is the second one i'm trying to update. This was initiated by updating the code,saving, going to the folder, adding the file, git command -m "xx" , git pull, git push
+
+this is hte new code i'm wanting to see with the git diff command
