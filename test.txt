@@ -1,1 +1,3 @@
 test
+
+this is the second one i'm trying to update. This was initiated by updating the code,saving, going to the folder, adding the file, git pull, git push 
